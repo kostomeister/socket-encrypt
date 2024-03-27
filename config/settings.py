@@ -133,4 +133,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 
 HOST = os.environ.get("HOST")
-PORT = os.environ.get("PORT")
+PORT = int(os.environ.get("PORT"))
+ENCRYPTION_KEY = os.environ.get("ENCRYPTION_KEY")
