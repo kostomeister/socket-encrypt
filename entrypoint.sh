@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Wait for PostgreSQL database to be ready
 echo "Checking if the PostgreSQL host ($POSTGRES_HOST $POSTGRES_PORT) is ready..."
