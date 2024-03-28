@@ -14,11 +14,11 @@
 2. **SetUp Project(In terminal):**
    * For Windows: 
     ```bash
-      run_app_windows.bat
+    .\run_app_windows.bat
     ```
    * For Linux:
    ```bash
-      run_app_linux.sh
+   .\run_app_linux.sh
    ```
 
 ### With Docker(Recommended)
