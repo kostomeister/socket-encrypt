@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Without Docker
+### Without Docker(You have to have Postgress)
 
 1. **Clone the repository:**
     ```bash
